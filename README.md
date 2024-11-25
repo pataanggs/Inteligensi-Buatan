@@ -36,15 +36,7 @@ Proyek ini adalah implementasi algoritma **Hill Climbing** untuk menyusun jadwal
 2. Masuk ke direktori proyek:
    ```bash
     cd Inteligensi-Buatan
-   ```
-3. Install dependensi:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Jalankan kode Python:
-   ```bash
-   python hill_climbing_schedule.py
-   ```
+    ```
 
 ## 🖼️ Contoh Visualisasi Jadwal
 ![Contoh Jadwal](output.png)
@@ -55,6 +47,7 @@ Setiap sel menampilkan **mata kuliah**, **dosen**, dan **ruangan** untuk sesi te
 - **Python**: Bahasa pemrograman utama.
 - **Matplotlib**: Untuk visualisasi jadwal.
 - **NumPy**: Untuk manipulasi data.
+- **Jupyter Notebook dan Visual Studio Code**: Untuk eksekusi kode dan dokumentasi interaktif.
 
 ---
 
